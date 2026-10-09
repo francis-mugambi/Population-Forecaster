@@ -1,4 +1,4 @@
-# OOP with Python: Assignment 1, Advent 2026 (Mini-Projects)
+# Population Forecaster with Python: Advent 2026 (Mini-Projects)
 
 **Student:** _<your name>_ · **Reg. no.:** _<your registration number>_ · **Programme:** MSCS / MSDS
 
@@ -89,8 +89,3 @@ The notebooks find `src/` whether Jupyter is started from the repository root or
 * Crop water needs: Brouwer, C. & Heibloem, M. (1986) *Irrigation Water Management Training Manual No. 3: Irrigation Water Needs*, FAO, Tables 4–5. <https://www.fao.org/4/s2022e/s2022e02.htm>
 * Robusta coffee rainfall: Uganda Coffee Development Authority (2019) *Robusta Coffee Handbook*.
 * **Optional P4 extension (real data).** Download monthly precipitation from the [NASA POWER Data Access Viewer](https://power.larc.nasa.gov/data-access-viewer/): Community *Agroclimatology*, Temporal *Monthly & Annual*, parameter *Precipitation Corrected (PRECTOTCORR)*, 2010–2023, format CSV. Suggested points: Kampala (0.35, 32.58), Gulu (2.78, 32.30), Mbarara (−0.61, 30.65). Save the files as `data/nasa_power_Kampala.csv` and so on, then re-run notebook 4. It will draw monthly box plots.
-
-## AI-use declaration
-_Edit this section so it describes accurately how **you** used AI._
-
-This repository was developed with the help of an AI assistant (Anthropic's Claude). It was used to scaffold the repository structure, draft the class designs, implementations, tests and notebook text, and check the results. I have reviewed, run and tested all the code (`pytest` passes and every notebook runs with Restart & Run All). I can explain each method, formula and design decision. I checked the key results against hand calculations, which appear as `assert` statements in the notebooks.
