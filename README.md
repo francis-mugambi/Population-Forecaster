@@ -1,6 +1,5 @@
 # Population Forecaster with Python: Advent 2026 (Mini-Projects)
 
-**Student:** _<your name>_ · **Reg. no.:** _<your registration number>_ · **Programme:** MSCS / MSDS
 
 Five mini-projects set in Ugandan contexts. Each one is modelled with classes, backed by reusable code in `src/`, run from its own Jupyter notebook and covered by `pytest` tests.
 
